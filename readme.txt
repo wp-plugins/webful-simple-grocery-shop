@@ -16,6 +16,8 @@ This plugin helps you to make your shop online and add products of your shop wit
 
 During activation of this plugin it creates 2 pages Products and Checkout with required shortcodes you can change products page to anything but use shortcode. You also can change title of Checkout page but keep url /checkout/ as that is required by plugin. Use the shotcode below to show shopping page in widget or header of your site.
 
+Check live demo http://webfulcreations.com/envato/grocery_order/products/
+
 == Installation ==
 
 During activation of this plugin it creates 2 pages Products and Checkout with required shortcodes you can change products page to anything but use shortcode. You also can change title of Checkout page but keep url /checkout/ as that is required by plugin. Use the shotcode below to show shopping page in widget or header of your site.
