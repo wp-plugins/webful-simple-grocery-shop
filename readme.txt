@@ -49,14 +49,14 @@ Use following shortcode for checkout page.
         
 == Screenshots ==
 
-1. 01_preview1.jpg
-2. 02_preview2.jpg
-3. 03_preview3.jpg
-4. 04_preview4.jpg
-5. 05_preview5.jpg
-6. 06_preview6.jpg
-7. 07_preview7.jpg
-8. 08_preview8.jpg
-9. 09_preview9.jpg
-10. 10_preview10.jpg
-11. 11_preview11.jpg
+1. Screenshot
+2. screenshot
+3. Screenshot
+4. Screenshot
+5. Screenshot
+6. Screenshot
+7. Screenshot
+8. Screenshot
+9. Screenshot
+10. screenshot
+11. Screenshot
