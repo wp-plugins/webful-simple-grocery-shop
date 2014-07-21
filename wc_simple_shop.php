@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Webful Simple Grocery Shop
+Plugin Name: Wordpress Simple Shop
 Plugin URI: http://www.webfulcreations.com/
 Description: Plugin helps to make Shop with products and orders.
 Version: 1.0
