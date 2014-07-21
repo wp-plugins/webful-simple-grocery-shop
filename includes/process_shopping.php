@@ -74,7 +74,7 @@ function checkout($full_name, $phone_number, $delivery_date, $address_1, $addres
 	}
 	extract($_POST);
 	$message = '<h1>New order.</h1>';
-	$message .= '<p>To check order details please <a href="'.get_option('siteurl').'/wp-content/plugins/wc_simple_shop/order_detail.php?order_id='.$order_id.'">click here</a></p>';
+	$message .= '<p>To check order details please Go to your wordpress dashboard and check orders section under shop menu.</p>';
 	
 	/*$message .= '<h3>Card Details</h3>';
 	
