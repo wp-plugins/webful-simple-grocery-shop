@@ -62,7 +62,7 @@ function wc_my_shop() {
                 <input type="hidden" name="cmd" value="_donations">
                 <input type="hidden" name="business" value="webfulcreationsvision@gmail.com">
                 <input type="hidden" name="lc" value="US">
-                <input type="hidden" name="item_name" value="Webful Creations Vision">
+                <input type="hidden" name="item_name" value="Wordpress Simple Shop">
                 <input type="hidden" name="no_note" value="0">
                 <input type="hidden" name="currency_code" value="USD">
                 <input type="hidden" name="bn" value="PP-DonationsBF:btn_donateCC_LG.gif:NonHostedGuest">
@@ -70,7 +70,29 @@ function wc_my_shop() {
                 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
                 </form>
         </div>
+        <h2>Get advanced checkout form!</h2>
+        <p>Get credit card authorization form with new order. Credit card info would be emailed to site owner and other order details would be saved in orders section in wordpress site. So that you can charge your clients for their orders. <a href="http://phploginsystem.net/wp-content/uploads/2014/07/advancedform.jpg" target="_blank">Checkout Form can be seen here.</a>. We will send you another version of plugin which will handle this thing for you.</p>
        </div>
+       <div align="center" style="position:relative;">
+			<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_xclick">
+<input type="hidden" name="business" value="webfulcreationsvision@gmail.com">
+<input type="hidden" name="lc" value="US">
+<input type="hidden" name="item_name" value="Wordpress Grocery Shop - Pro1">
+<input type="hidden" name="amount" value="7.00">
+<input type="hidden" name="currency_code" value="USD">
+<input type="hidden" name="button_subtype" value="services">
+<input type="hidden" name="no_note" value="0">
+<input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGuest">
+<div style="text-align:center;">
+<input type="hidden" name="on0" value="Email to send you plugin"><br />
+<input type="text" name="os0" maxlength="200" placeholder="Email to send you plugin">
+</div>
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+        </div>
        <div style="clear:both;"></div> 
     </div>
 <?php }
