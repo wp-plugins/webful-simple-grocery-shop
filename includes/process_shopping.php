@@ -76,54 +76,6 @@ function checkout($full_name, $phone_number, $delivery_date, $address_1, $addres
 	$message = '<h1>New order.</h1>';
 	$message .= '<p>To check order details please Go to your wordpress dashboard and check orders section under shop menu.</p>';
 	
-	/*$message .= '<h3>Card Details</h3>';
-	
-	$message .= '<table width="100%" border="1px" cellpadding="5">';
-	$message .= '<tr><th>First Name</th><td>';
-	$message .= $card_first_name;
-	$message .= '</td></tr>';
-	
-	$message .= '<tr><th>Last Name</th><td>';
-	$message .= $card_last_name;
-	$message .= '</td></tr>';
-	
-	$message .= '<tr><th>Phone Number</th><td>';
-	$message .= $card_phone_num;
-	$message .= '</td></tr>';
-	
-	$message .= '<tr><th>Name on card</th><td>';
-	$message .= $card_nameoncard;
-	$message .= '</td></tr>';
-	
-	$message .= '<tr><th>Type of card</th><td>';
-	$message .= $card_card_type;
-	$message .= '</td></tr>';
-	
-	$message .= '<tr><th>Credit card number</th><td>';
-	$message .= $card_numberofcard;
-	$message .= '</td></tr>';
-	
-	$message .= '<tr><th>Expiration Date</th><td>';
-	$message .= $card_expirydate;
-	$message .= '</td></tr>';
-	
-	$message .= '<tr><th>Security code</th><td>';
-	$message .= $card_securitycode;
-	$message .= '</td></tr>';
-	
-	$message .= '<tr><th>Billing Address</th><td>';
-	$message .= $card_billingadd;
-	$message .= '</td></tr>';
-	
-	$message .= '<tr><th>Cardholder Initials</th><td>';
-	$message .= $card_holderinitials;
-	$message .= '</td></tr>';
-	
-	$message .= '<tr><th>Date</th><td>';
-	$message .= $card_date;
-	$message .= '</td></tr>';
-	$message .= '</table>';*/
-	
 			$mailto = get_option('admin_email');
 			//getting set email addresses from database.
 			$from_email = get_option('admin_email');
