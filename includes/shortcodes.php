@@ -99,55 +99,6 @@ function my_checkout() {
 	$content .= '<input type="text" name="country" placeholder="Country">';
 	$content .= '</td></tr>';
 	
-	/*$content .= '<tr><td colspan="2"><span style="color: #993300;">Print Out Credit Card Authorization Form to Fax <a href="http://destingrocerygirls.com/wp-content/uploads/2014/04/Credit_Card_Authorization.pdf"><span style="color: #993300;">Here</span></a></span><h2><span style="color: #ff00ff;">CREDIT CARD AUTHORIZATION FORM</span></h2></td></tr>';
-	
-	$content .= '<tr><th>First Name</th><td>';
-	$content .= '<input type="text" name="card_first_name" placeholder="First name" >';
-	$content .= '</td></tr>';
-	
-	$content .= '<tr><th>Last Name</th><td>';
-	$content .= '<input type="text" name="card_last_name" placeholder="Last name" >';
-	$content .= '</td></tr>';
-	
-	$content .= '<tr><th>Phone Number</th><td>';
-	$content .= '<input type="text" name="card_phone_num" placeholder="Phone number" >';
-	$content .= '</td></tr>';
-	
-	$content .= '<tr><th>Name on card</th><td>';
-	$content .= '<input type="text" name="card_nameoncard" placeholder="Name on Card" >';
-	$content .= '</td></tr>';
-	
-	$content .= '<tr><th>Type of card</th><td>';
-	$content .= 'Visa <input type="radio" name="card_card_type" value="Visa" > <br>';
-	$content .= 'Mastercard <input type="radio" name="card_card_type" value="Mastercard" > <br>';
-	$content .= 'American Express <input type="radio" name="card_card_type" value="American Express" > <br>';
-	$content .= 'Discover <input type="radio" name="card_card_type" value="Discover" > <br>';
-	$content .= '</td></tr>';
-	
-	$content .= '<tr><th>Credit card number</th><td>';
-	$content .= '<input type="text" name="card_numberofcard" placeholder="Credit Card Number" >';
-	$content .= '</td></tr>';
-	
-	$content .= '<tr><th>Expiration Date</th><td>';
-	$content .= '<input type="text" name="card_expirydate" placeholder="Expiration date" >';
-	$content .= '</td></tr>';
-	
-	$content .= '<tr><th>Security code</th><td>';
-	$content .= '<input type="text" name="card_securitycode" placeholder="Security Code" >';
-	$content .= '</td></tr>';
-	
-	$content .= '<tr><th>Billing Address</th><td>';
-	$content .= '<textarea name="card_billingadd" placeholder="Billing address"></textarea>';
-	$content .= '</td></tr>';
-	
-	$content .= '<tr><th>Cardholder Initials</th><td>';
-	$content .= '<input type="text" name="card_holderinitials" placeholder="Cardholder Initials" >';
-	$content .= '</td></tr>';
-	
-	$content .= '<tr><th>Date</th><td>';
-	$content .= '<input type="text" name="card_date" placeholder="date" >';
-	$content .= '</td></tr>';
-	*/
 	$content .= '<tr><th>&nbsp;</th><td>';
 	$content .= '<input type="hidden" name="my_checkout" value="1">';
 	$content .= '<input type="submit" value="Checkout">';
