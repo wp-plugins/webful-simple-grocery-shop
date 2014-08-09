@@ -60,7 +60,7 @@ function wc_my_shop() {
         <div align="center">
         	<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                 <input type="hidden" name="cmd" value="_donations">
-                <input type="hidden" name="business" value="webfulcreationsvision@gmail.com">
+                <input type="hidden" name="business" value="starsinthelake@gmail.com">
                 <input type="hidden" name="lc" value="US">
                 <input type="hidden" name="item_name" value="Wordpress Simple Shop">
                 <input type="hidden" name="no_note" value="0">
@@ -76,7 +76,7 @@ function wc_my_shop() {
        <div align="center" style="position:relative;">
 			<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_xclick">
-<input type="hidden" name="business" value="webfulcreationsvision@gmail.com">
+<input type="hidden" name="business" value="starsinthelake@gmail.com">
 <input type="hidden" name="lc" value="US">
 <input type="hidden" name="item_name" value="Wordpress Grocery Shop - Pro1">
 <input type="hidden" name="amount" value="7.00">
