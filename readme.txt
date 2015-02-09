@@ -3,7 +3,7 @@ Contributors: sweetdaisy86
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=webfulcreationsvision%40gmail%2ecom&lc=US&item_name=Webful%20Creations%20Vision&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest
 Tags: cart, orders, grocery shop, simple shop, online orders, online shop, grocery store
 Requires at least: 3.0.1
-Tested up to: 3.9.1
+Tested up to: 4.1
 Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
